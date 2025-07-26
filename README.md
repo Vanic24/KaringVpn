@@ -24,11 +24,11 @@ Karing Diversion Rule ချနည်း Video Tutorial : https://tinyl.io/karin
 
 *ဆာဗာများတစ်ခုစီထည့်သွင်းရန်မလိုပဲ အသင့်ပြုလုပ်ထားသော Recovery File များဒေါင်းယူရန်*
 
-မြန်မာအင်တာနက်သုံးသူများ (ဖုန်း အတွက်) Recovery File - https://wani.teracloud.jp/share/11f11c90de52b758
+မြန်မာအင်တာနက်သုံးသူများ (ဖုန်း အတွက်) Recovery File - https://wani.teracloud.jp/share/11f1b25b41a7a455
 
-မြန်မာအင်တာနက်သုံးသူများ (PC အတွက်) Recovery File - https://wani.teracloud.jp/share/11f12be425454813
+မြန်မာအင်တာနက်သုံးသူများ (PC အတွက်) Recovery File - https://wani.teracloud.jp/share/11f1900d8a21b8e8
 
-တရုတ်အင်တာနက်သုံးသူများ (ဖုန်း အတွက်) Recovery File - https://wani.teracloud.jp/share/11f1d2fa74d8dff2
+တရုတ်အင်တာနက်သုံးသူများ (ဖုန်း အတွက်) Recovery File - https://wani.teracloud.jp/share/11f1c009cfa9a334
 
-တရုတ်အင်တာနက်သုံးသူများ (PC အတွက်) Recovery File - https://wani.teracloud.jp/share/11f1691f29264924
+တရုတ်အင်တာနက်သုံးသူများ (PC အတွက်) Recovery File - https://wani.teracloud.jp/share/11f104d3e58755a1
                                                                           
