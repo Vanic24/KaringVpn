@@ -1,4 +1,4 @@
-KaringVpn
+KARING VPN
 
 High Speed Free Vpn Sharing
 
@@ -21,10 +21,14 @@ Karing Diversion Rule ချနည်း Video Tutorial : https://tinyl.io/karin
 (ဆာဗာများအား နှိပ်ယူဖွင့်လှစ်ရန်မလိုပဲ ကူးယူပြီး Karing တွင် paste လုပ်ရုံဖြင့် ထည့်သွင်းနိုင်သည်... လိုင်းကျခြင်း၊ Timeout ဖြစ်ခြင်းများကြုံတွေ့ရပါက Update လုပ်ပေးကြည့်ရန်လိုအပ်သည်...)
 
 
-ဆာဗာများတစ်ခုစီထည့်သွင်းရန်မလိုပဲ အသင့်ပြုလုပ်ထားသော Recovery File များဒေါင်းယူရန်:
+
+*ဆာဗာများတစ်ခုစီထည့်သွင်းရန်မလိုပဲ အသင့်ပြုလုပ်ထားသော Recovery File များဒေါင်းယူရန်*
 
 မြန်မာအင်တာနက်သုံးသူများ (ဖုန်း အတွက်) Recovery File - https://wani.teracloud.jp/share/11f11c90de52b758
+
 မြန်မာအင်တာနက်သုံးသူများ (PC အတွက်) Recovery File - https://wani.teracloud.jp/share/11f12be425454813
+
 တရုတ်အင်တာနက်သုံးသူများ (ဖုန်း အတွက်) Recovery File - https://wani.teracloud.jp/share/11f1d2fa74d8dff2
+
 တရုတ်အင်တာနက်သုံးသူများ (PC အတွက်) Recovery File - https://wani.teracloud.jp/share/11f1691f29264924
                                                                           
