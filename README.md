@@ -18,7 +18,7 @@
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Download-For%20IOS%20%26%20Macbook-red" /><br>
-      <a href="https://apps.apple.com/us/app/karing/id6472431552" target="_blank">
+      <a href="https://tt.vg/KaringIos" target="_blank">
         <img width="250" height="80" alt="App Store" src="https://github.com/user-attachments/assets/e5e7d482-077a-4325-b25d-2082a001ddf7" />
       </a>
     </td>
@@ -47,9 +47,11 @@
 
 ## သတိပြုရန်
 
-**ဆာဗာများအား နှိပ်ယူဖွင့်လှစ်ရန်မလိုပဲ ကူးယူပြီး Karing တွင် paste လုပ်ရုံဖြင့် ထည့်သွင်းနိုင်သည်...**
+**ဆာဗာများအား နှိပ်ယူဖွင့်လှစ်ရန်မလိုပဲ ကူးယူပြီး Karing တွင် paste လုပ်ရုံဖြင့် ထည့်သွင်းအသုံးပြုနိုင်သည်...**
 
-**လိုင်းကျခြင်း၊ Timeout ဖြစ်ခြင်းများကြုံတွေ့ရပါက Update လုပ်ပေးကြည့်ရန်လိုအပ်သည်...**
+**လိုင်းကျခြင်း၊ Timeout ဖြစ်ခြင်းများကြုံတွေ့ရပါက Server Update လုပ်ပေးကြည့်ရန်လိုအပ်သည်...**
+
+**Karing အား မကြာမကြာ Update လုပ်ပေးရန်လိုအပ်သည်**
 
 **ဆာဗာများအား တစ်ခုစီကိုယ်တိုင်ထည့်သွင်းသည်ဆိုပါက Diversion Rules များကိုမှန်ကန်စွာချနိုင်မှသာ အသုံးပြုရအဆင်ပြေမည်ဖြစ်သဖြင့် Diversion Rules ချနည်း Tutorial Video အားအရင်နားလည်အောင်ကြည့်ပါ...**
 
