@@ -12,8 +12,8 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Download-For%20Android%20%26%20PC-red" /><br>
-      <a href="https://www.mediafire.com/folder/wxjyagylzlh6j/Karing_Vpn" target="_blank">
-        <img width="250" height="80" alt="Mediafire" src="https://github.com/user-attachments/assets/d314c6f6-bc45-4d9e-b7b5-f98099496847" />
+      <a href="https://tt.vg/DownloadKaring" target="_blank">
+        <img width="250" height="80" alt="Mega" src="https://github.com/user-attachments/assets/d9389e13-7057-438e-87ad-c10952f0c4de" />
       </a>
     </td>
     <td align="center">
@@ -29,19 +29,19 @@
 ## Tutorial Videos
 
 [![Tutorial Videos](https://img.shields.io/badge/Tutorial%20Video-Karing%20Vpn%20Old%20Version%20%E1%80%A1%E1%80%9E%E1%80%AF%E1%80%B6%E1%80%B8%E1%80%95%E1%80%BC%E1%80%AF%E1%80%94%E1%80%8A%E1%80%BA%E1%80%B8-blue
-)](https://tinyl.io/karing_oldversion)
+)](https://tt.vg/OldKaring)
 
 [![Tutorial Videos](https://img.shields.io/badge/Tutorial%20Video-Karing%20Vpn%20New%20Version%20%E1%80%A1%E1%80%9E%E1%80%AF%E1%80%B6%E1%80%B8%E1%80%95%E1%80%BC%E1%80%AF%E1%80%94%E1%80%8A%E1%80%BA%E1%80%B8-red
-)](https://tinyl.io/karing_newversion)
+)](https://tt.vg/NewKaring)
 
 [![Tutorial Videos](https://img.shields.io/badge/Tutorial%20Video-Karing%20Vpn%20Diversion%20Rule%20%E1%80%81%E1%80%BB%E1%80%94%E1%80%8A%E1%80%BA%E1%80%B8-green
-)](https://tinyl.io/karing_diversion)
+)](https://tt.vg/DiversionRules)
 
 
 ## Servers
 
 [![Servers](https://img.shields.io/badge/Servers-%E1%80%80%E1%80%B0%E1%80%B8%E1%80%9A%E1%80%B0%E1%80%91%E1%80%8A%E1%80%B7%E1%80%BA%E1%80%9E%E1%80%BD%E1%80%84%E1%80%BA%E1%80%B8%E1%80%A1%E1%80%9E%E1%80%AF%E1%80%B6%E1%80%B8%E1%80%95%E1%80%BC%E1%80%AF%E1%80%9B%E1%80%99%E1%80%8A%E1%80%B7%E1%80%BA%E1%80%86%E1%80%AC%E1%80%97%E1%80%AC%E1%80%99%E1%80%BB%E1%80%AC%E1%80%B8-brown
-)](https://pastelink.net/KaringServers)
+)](https://tt.vg/KaringServers)
 
 
 
